@@ -2,6 +2,8 @@
 
 This is a sample project which uses Selenium WebDriver, WebDriverManager and others, with some good development practices, in order to help you create your automated E2E front-end tests.
 
+The web application under test can be found at https://www.grocerycrud.com/v1.x/demo/bootstrap_theme_v5
+
 1. [Test creation](#Test creation)
     1. [Example](#Example)
 2. [Local execution](#Local execution)
