@@ -4,11 +4,11 @@ This is a sample project which uses Selenium WebDriver, WebDriverManager and oth
 
 The web application under test can be found at https://www.grocerycrud.com/v1.x/demo/bootstrap_theme_v5
 
-1. [Test creation](#Test creation)
+1. [Test creation](#Test_creation)
     1. [Example](#Example)
-2. [Local execution](#Local execution)
-3. [Properties file](#Properties file)
-3. [Logs and test reports](#Logs and test reports)
+2. [Local execution](#Local_execution)
+3. [Properties file](#Properties_file)
+3. [Logs and test reports](#Logs_and_test_reports)
 
 ## Test creation
 
