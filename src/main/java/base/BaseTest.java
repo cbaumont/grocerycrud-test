@@ -25,7 +25,7 @@ public abstract class BaseTest {
     }
 
     @AfterMethod
-    public void postCondition(){
+    public void postCondition() {
         driver.quit();
     }
 }

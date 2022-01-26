@@ -1,6 +1,6 @@
 package utils;
 
-public class NoPropertiesException extends RuntimeException{
+public class NoPropertiesException extends RuntimeException {
 
     public NoPropertiesException() {
     }

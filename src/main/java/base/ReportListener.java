@@ -1,6 +1,5 @@
 package base;
 
-import base.BaseTest;
 import com.aventstack.extentreports.service.ExtentTestManager;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
